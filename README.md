@@ -1,14 +1,14 @@
 # MoodTracker 📖 🎯
 
-![Banner Image](./screenshots/logo.png)
+[![Banner Image](./screenshots/logo.png)](https://moodtracker.flatteredwithflutter.com/)
 
 The `MoodTracker` App is a powerful tool designed to help you track and understand your emotions, improve your mental well-being, and gain valuable insights into your mood patterns.
 
 ## Features
 
-- **Track Your Moods**: Easily log your daily moods and emotions using a simple and intuitive interface. Choose from a wide range of predefined mood options that reflect your unique emotional states.
-- **Visualize Your Mood History**: View your mood history from the interactive calendar. Gain insights into your emotional trends over time.
-- **Secure and Private**: Your data is securely stored and encrypted, ensuring the privacy and confidentiality of your personal information.
+- **Track Your Moods📝**: Easily log your daily moods and emotions using a simple and intuitive interface. Choose from a wide range of predefined mood options that reflect your unique emotional states.
+- **Visualize Your Mood History📅**: View your mood history from the interactive calendar. Gain insights into your emotional trends over time.
+- **Secure and Private🔒**: Your data is securely stored and encrypted, ensuring the privacy and confidentiality of your personal information.
 
 This app demonstrates how to:
 
@@ -73,14 +73,14 @@ flutter run -d web-server --web-hostname localhost --web-port 3000
 - Take a folder, let's say home
 - It is broken down into components, models, utils (utilties if any), view and view_models
 
-## Future Enhancements
+## Future Enhancements 🌐
 
 Here are some potential future enhancements that can be implemented in this `MoodTracker` app:
 
-1. **Data Visualization:** Incorporate interactive charts and graphs to visually represent mood data over time. This can provide users with a clear understanding of their emotional patterns and trends.
-2. **Goal Setting:** Introduce a goal-setting feature where users can set and track goals related to their mood. This can include targets for achieving emotional well-being, managing stress, or practicing self-care activities.
-3. **Mood Patterns Analysis:** Implement algorithms to analyze mood patterns and provide personalized insights and recommendations. This feature can help users identify triggers, patterns, and effective coping strategies based on their individual data.
-4. **Reminders and Notifications:** Incorporate reminders and notifications to prompt users to log their mood at specific times throughout the day. This feature ensures consistent tracking and helps users maintain an accurate record of their emotional state.
+1. **Data Visualization:📊** Incorporate interactive charts and graphs to visually represent mood data over time. This can provide users with a clear understanding of their emotional patterns and trends.
+2. **Goal Setting:🎯** Introduce a goal-setting feature where users can set and track goals related to their mood. This can include targets for achieving emotional well-being, managing stress, or practicing self-care activities.
+3. **Mood Patterns Analysis:📊** Implement algorithms to analyze mood patterns and provide personalized insights and recommendations. This feature can help users identify triggers, patterns, and effective coping strategies based on their individual data.
+4. **Reminders and Notifications:⏰** Incorporate reminders and notifications to prompt users to log their mood at specific times throughout the day. This feature ensures consistent tracking and helps users maintain an accurate record of their emotional state.
 
 Let's keep building and improving this `MoodTracker` app together! 🚀
 
