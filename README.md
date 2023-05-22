@@ -12,18 +12,11 @@ The `MoodTracker` App is a powerful tool designed to help you track and understa
 
 This app demonstrates how to:
 
-- sign users in with Supabase Auth using [magic link](https://supabase.io/docs/reference/dart/auth-signin#sign-in-with-magic-link)
-- store and retrieve data with [Supabase database](https://supabase.io/docs/guides/database)
-- store image files in [Supabase storage](https://supabase.io/docs/guides/storage)
+- **Sign In using Magic Link** : It allows users to sign in to your app using Supabase Auth with the convenience of a [magic link](https://supabase.io/docs/reference/dart/auth-signin#sign-in-with-magic-link). When users enter their email address, an email containing a verification link is sent to them. Users can then click on the link to verify their email and gain access to the app. This method eliminates the need for traditional password-based authentication and provides a secure and user-friendly login experience.
 
-## Why Use the MoodTracker App?
+- **Store data using Postgres** : User profiles and logged mood entries are securely stored and retrieved using the [Supabase database](https://supabase.io/docs/guides/database). The PostgreSQL database allows for efficient and reliable data storage, ensuring that user information and mood records are safely managed.
 
-- **Enhance Self-Awareness**
-- **Promote Emotional Well-being**
-- **Track Progress**
-- **Stay Motivated**
-
-You can also access the `MoodTracker` on [web](https://moodtracker.flatteredwithflutter.com/)
+- **Storing user profiles using Storage** : User-uploaded profile images are securely stored in [Supabase storage](https://supabase.io/docs/guides/storage). The generated URLs are then retrieved within the application to display user avatars, providing a seamless and efficient way to manage user profile images.
 
 ## Video 🎥
 
@@ -38,6 +31,16 @@ You can also access the `MoodTracker` on [web](https://moodtracker.flatteredwith
 | Mood Record                                                                 | Calendar Screen                                                          | Profile Screen                                                          |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | <img src="./screenshots/ss-mood-logged.png" height="550" alt="Screenshot"/> | <img src="./screenshots/ss-calendar.png" height="550" alt="Screenshot"/> | <img src="./screenshots/ss-profile.png" height="550" alt="Screenshot"/> |
+
+## Why Use the MoodTracker App?
+
+- **Enhance Self-Awareness**
+- **Promote Emotional Well-being**
+- **Track Progress**
+- **Stay Motivated**
+
+[![Demo](https://img.shields.io/badge/Demo-MoodTracker-green)](https://moodtracker.flatteredwithflutter.com/)
+You can also access the `MoodTracker` on [web](https://moodtracker.flatteredwithflutter.com/)
 
 ## Getting Started 🚀
 
@@ -89,6 +92,9 @@ Let's keep building and improving this `MoodTracker` app together! 🚀
 If you have any questions or suggestions, feel free to reach out to `Team Dazzlers`:
 
 - [Ruchi Dhar](https://twitter.com/ruchidhar007)
+  [![GitHub](https://img.shields.io/badge/GitHub-ruchidhar-blue?style=flat&logo=github)](https://github.com/ruchidhar) [![Twitter](https://img.shields.io/badge/Twitter-ruchidhar007-blue?style=flat&logo=twitter)](https://twitter.com/ruchidhar007)
+
 - [Aseem Wangoo](https://twitter.com/aseemwangoo)
+  [![GitHub](https://img.shields.io/badge/GitHub-aseemwangoo-blue?style=flat&logo=github)](https://github.com/aseemwangoo) [![Twitter](https://img.shields.io/badge/Twitter-aseemwangoo-blue?style=flat&logo=twitter)](https://twitter.com/aseemwangoo)
 
 We hope the `MoodTracker` App brings you greater self-awareness, emotional well-being, and happiness in your daily life!
